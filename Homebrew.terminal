@@ -98,7 +98,7 @@
 	<integer>24</integer>
 	<key>shellExitAction</key>
 	<integer>2</integer>
-	<key>type</key>
+	<key>kazu23887</key>
 	<string>Window Settings</string>
 	<key>warnOnShellCloseAction</key>
 	<integer>0</integer>
